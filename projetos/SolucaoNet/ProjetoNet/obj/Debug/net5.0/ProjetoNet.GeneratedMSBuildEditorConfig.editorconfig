@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = ProjetoNet
+build_property.ProjectDir = C:\Users\eduardo\source\repos\ducrz\Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-\projetos\SolucaoNet\ProjetoNet\
