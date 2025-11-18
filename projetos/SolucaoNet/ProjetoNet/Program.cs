@@ -1,12 +1,3 @@
-﻿using System;
-
-namespace ProjetoNet
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+﻿
+            Console.WriteLine("Usando as instruções de nível superior no Net 6!");
+   
