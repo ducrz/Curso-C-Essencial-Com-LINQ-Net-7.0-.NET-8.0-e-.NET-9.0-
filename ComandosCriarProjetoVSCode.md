@@ -16,4 +16,17 @@ Abrir o projeto no VS Code (estando na pasta da solução)
 
 dotnet sln <nome_solução>.sln add <pasta_projeto>/<arquivo>.csproj
 
+Estrutura utilizada nas aulas:
+
+dotnet new sln -o MinhaSolução
+
+dotnet new console -o MeuProjeto
+
+No diretório MinhaSolução:
+
+dotnet sln MinhaSolucao.sln add MeuProjeto/MeuProjeto.csproj
+
+Para abrir diretamente no VS Code:
+
+code .
 
