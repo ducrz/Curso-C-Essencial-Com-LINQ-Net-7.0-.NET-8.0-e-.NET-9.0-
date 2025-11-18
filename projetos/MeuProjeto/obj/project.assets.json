@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/projetos.csproj",
-      "projectName": "projetos",
-      "projectPath": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/projetos.csproj",
+      "projectUniqueName": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MeuProjeto/MeuProjeto.csproj",
+      "projectName": "MeuProjeto",
+      "projectPath": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MeuProjeto/MeuProjeto.csproj",
       "packagesPath": "/home/eduardo/.nuget/packages/",
-      "outputPath": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/obj/",
+      "outputPath": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MeuProjeto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eduardo/.nuget/NuGet/NuGet.Config"
