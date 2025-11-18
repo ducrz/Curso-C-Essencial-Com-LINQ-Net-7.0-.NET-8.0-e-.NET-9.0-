@@ -2,7 +2,7 @@
 
 Criar uma solução:
 
-dotnet nwe sln -o <nome-solução>
+dotnet new sln -o <nome-solução>
 
 Criar um projeto dentro da solução (entrar na pasta da solução)
 
