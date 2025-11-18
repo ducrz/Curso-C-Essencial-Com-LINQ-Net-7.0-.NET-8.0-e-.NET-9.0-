@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MeuProjeto/MeuProjeto.csproj": {}
+    "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MinhaSolucao/MeuProjeto/MeuProjeto.csproj": {}
   },
   "projects": {
-    "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MeuProjeto/MeuProjeto.csproj": {
+    "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MinhaSolucao/MeuProjeto/MeuProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MeuProjeto/MeuProjeto.csproj",
+        "projectUniqueName": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MinhaSolucao/MeuProjeto/MeuProjeto.csproj",
         "projectName": "MeuProjeto",
-        "projectPath": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MeuProjeto/MeuProjeto.csproj",
+        "projectPath": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MinhaSolucao/MeuProjeto/MeuProjeto.csproj",
         "packagesPath": "/home/eduardo/.nuget/packages/",
-        "outputPath": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MeuProjeto/obj/",
+        "outputPath": "/home/eduardo/repositorios/Curso-C-Essencial-Com-LINQ-Net-7.0-.NET-8.0-e-.NET-9.0-/projetos/MinhaSolucao/MeuProjeto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/eduardo/.nuget/NuGet/NuGet.Config"
