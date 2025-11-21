@@ -18,3 +18,34 @@ x <= y -> true
 */
 
 Console.WriteLine("Operadores Relacionais em C#\n");
+
+
+int x = 10;
+int y = 20;
+
+Console.WriteLine("x = " + x);
+Console.WriteLine("y = " + y + "\n");
+
+Console.WriteLine(x == y);  // false
+bool resultado = x == y;
+Console.WriteLine("Resultado de x == y: " + resultado + "\n");
+
+Console.WriteLine(x == y);  // false
+Console.WriteLine(x > y);   // false
+Console.WriteLine(x < y);   // true
+Console.WriteLine(x >= y);  // false
+Console.WriteLine(x <= y);  // true
+Console.WriteLine(x != y);  // true
+
+Console.WriteLine("\nComparação de strings:");
+
+string a ="Curso";
+string b ="curso";
+
+Console.WriteLine($"Valor de a: {a}");
+Console.WriteLine($"Valor de b: {b}\n");
+
+Console.WriteLine(a == b);  // false
+Console.WriteLine(a.Equals(b));  // false
+
+Console.ReadKey();
