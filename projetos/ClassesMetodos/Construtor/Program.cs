@@ -62,3 +62,78 @@ public class Aluno{
 
 
 */
+
+AlunoComParametros alunoComParametros = new AlunoComParametros("Maria", 22, "Feminino", "Sim");
+public class AlunoComParametros
+{
+    public AlunoComParametros(string nome, int idade, string sexo, string aprovado)
+    {
+        Nome = nome;
+        Idade = idade;
+        Sexo = sexo;
+        Aprovado = aprovado;
+    }
+
+    public string? Nome;
+    public int Idade;
+    public string? Sexo;
+    public string? Aprovado;
+}
+
+/* Criando mais de um construtor
+
+public class Aluno{
+
+    public Aluno(string nome){
+         Nome = nome;
+    }
+    public Aluno(int idade, string sexo, string aprovado){
+         Idade = idade;
+         Sexo = sexo;
+         Aprovado = aprovado;
+    }
+    public string? Nome;
+    public int Idade;
+    public string? Sexo;
+    public string? Aprovado;
+}}
+
+Criamos dois construtores que diferem pelo número de parâmetros que são
+usados para inicializar os membros da classe quando o objeto for criado.
+
+
+Aluno aluno1 = new Aluno("João");
+Aluno aluno2 = new Aluno(20, "Masculino", "Sim");
+
+Corpo de expressão ou expression body do construtor
+public Aluno(string nome) => Nome = nome;
+
+*/
+
+
+/* Um construtor pode chamar outro construtor da mesma classe usando a palavra this
+public class Aluno{
+
+    public Aluno(string nome) : this(nome, 0, null, null){
+    }
+
+    public Aluno(string nome, int idade, string sexo, string aprovado){
+         Nome = nome;
+         Idade = idade;
+         Sexo = sexo;
+         Aprovado = aprovado;
+    }
+
+   public string? Nome;
+   public int Idade;
+   public string? Sexo;
+   public string? Aprovado;
+
+
+}
+
+Para evitar a duplicação de código, um construtor pode chamar outro construtor da mesma classe,
+usando a palavra this seguida dos parâmetros necessários para chamar o outro construtor.
+
+*/
+
