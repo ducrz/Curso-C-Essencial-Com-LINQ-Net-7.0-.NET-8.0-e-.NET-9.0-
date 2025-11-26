@@ -4,7 +4,22 @@
 */
 Console.WriteLine("Exemplo Prático de Classes e Métodos");
 
-Cliente cliente1 = new Cliente();
+//Cliente cliente1 = new Cliente();
+
+Cadastro cadastro = new Cadastro();
+
+var cliente = cadastro.Registrar();
+
+cadastro.ExibirDados(cliente);
+
+//Agora alterando a renda
+cliente = cadastro.Registrar(cliente);
+cadastro.ExibirDados("Renda alterada", cliente);
+
+
+
+Console.ReadKey();
+
 
 
 
@@ -50,7 +65,7 @@ public class Cadastro
     }
         public void ExibirDados(string texto, Cliente cliente)
     {
-        Console.WriteLine($"{texto}");
+        Console.WriteLine($"\n{texto}\t");
         Console.WriteLine($"{cliente.Nome}, {cliente.Renda}" );
        
     }
