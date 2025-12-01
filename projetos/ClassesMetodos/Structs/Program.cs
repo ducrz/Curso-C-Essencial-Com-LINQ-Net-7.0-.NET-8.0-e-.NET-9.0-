@@ -44,3 +44,18 @@ public struct Cliente{
         Idade = idade;
     }
 }
+
+
+/* Struct x Classes
+
+Considere definir um struct em vez de uma classe se as instâncias do tipo forem pequenas e normalmente
+de curta duração ou se forem comumente incorporadas em outros objetos.
+
+Evite definir um struct, a menos que o tipo tenha todas as características a seguir:
+Representa logicamente um único valor, semelhante aos tipos primitivos (int, double, etc).
+Tem um tamanho de instância inferior a 16 bytes.
+É imutável.
+Não precisará sofrer conversão para tipo de referência (boxing) com frequência.
+
+
+*/
