@@ -94,10 +94,33 @@ Console.WriteLine(DiasDaSemana.Terca);
 int dia1 = (int)DiasDaSemana.Domingo; 
 int dia1 = (int)DiasDaSemana.Terca; 
 
-Console.WriteLine($"\n{DiasDaSemana.Domingo} = {dia1}");
 
-Console.WriteLine($"\n{DiasDaSemana.Terca} = {dia2}");
+Console.WriteLine($"{Categorias.Moda} - {(int)Categorias.Moda}");
+Console.WriteLine($"{Categorias.Automotivo} - {(int)Categorias.Automotivo}");
+Console.WriteLine($"{Categorias.Artes} - {(int)Categorias.Artes}"); 
+Console.WriteLine($"{Categorias.Bebidas} - {(int)Categorias.Bebidas}");
+Console.WriteLine($"{Categorias.Livros} - {(int)Categorias.Livros}");
+Console.WriteLine($"{Categorias.Brinquedos} - {(int)Categorias.Brinquedos}");
 
+Console.WriteLIne("\nSelecione a Categoria teclando o seu valor:");
+int valor = Convert.ToInt32(Console.ReadLine());
+
+var nomeMembroEnum = (Categorias)valor; 
+
+Console.WriteLine($"Voce selecionou a categoria: {nomeMembroEnum.ToString()}");
+
+
+
+
+enum Categorias
+{
+    Moda,
+    Automotivo,
+    Artes,
+    Bebidas,
+    Livros,
+    Brinquedos
+}
 enum DiasDaSemana
 {
     Domingo,
