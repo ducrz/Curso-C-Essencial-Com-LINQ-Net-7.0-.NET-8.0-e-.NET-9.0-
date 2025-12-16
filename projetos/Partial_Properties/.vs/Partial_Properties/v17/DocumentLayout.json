@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Artigos\\_net9\\_cshp13\\Partial_Properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91DA973E-E339-4E0C-9568-4EC2F942441B}|Partial_Properties\\Partial_Properties.csproj|d:\\_artigos\\_net9\\_cshp13\\partial_properties\\partial_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DA973E-E339-4E0C-9568-4EC2F942441B}|Partial_Properties\\Partial_Properties.csproj|solutionrelative:partial_properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DA973E-E339-4E0C-9568-4EC2F942441B}|Partial_Properties\\Partial_Properties.csproj|d:\\_artigos\\_net9\\_cshp13\\partial_properties\\partial_properties\\produto.imposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DA973E-E339-4E0C-9568-4EC2F942441B}|Partial_Properties\\Partial_Properties.csproj|solutionrelative:partial_properties\\produto.imposto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91DA973E-E339-4E0C-9568-4EC2F942441B}|Partial_Properties\\Partial_Properties.csproj|d:\\_artigos\\_net9\\_cshp13\\partial_properties\\partial_properties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91DA973E-E339-4E0C-9568-4EC2F942441B}|Partial_Properties\\Partial_Properties.csproj|solutionrelative:partial_properties\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\Partial_Properties\\Partial_Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Partial_Properties\\Program.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\Partial_Properties\\Partial_Properties\\Program.cs",
+              "RelativeToolTip": "Partial_Properties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:42:02.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.Imposto.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\Partial_Properties\\Partial_Properties\\Produto.Imposto.cs",
+              "RelativeDocumentMoniker": "Partial_Properties\\Produto.Imposto.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\Partial_Properties\\Partial_Properties\\Produto.Imposto.cs",
+              "RelativeToolTip": "Partial_Properties\\Produto.Imposto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:38:34.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\Partial_Properties\\Partial_Properties\\Produto.cs",
+              "RelativeDocumentMoniker": "Partial_Properties\\Produto.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\Partial_Properties\\Partial_Properties\\Produto.cs",
+              "RelativeToolTip": "Partial_Properties\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:31:22.493Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a7673ab8-96c2-4f8f-86b9-ef4527b5383a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

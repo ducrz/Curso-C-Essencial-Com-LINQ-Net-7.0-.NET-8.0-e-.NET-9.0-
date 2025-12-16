@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Artigos\\_net9\\_cshp13\\CSharp13_Novidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2D9A7-06BF-4109-A084-A6D9400492D2}|..\\NovoObjeto_lock\\NovoObjeto_lock.csproj|d:\\_artigos\\_net9\\_cshp13\\novoobjeto_lock\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B2D9A7-06BF-4109-A084-A6D9400492D2}|..\\NovoObjeto_lock\\NovoObjeto_lock.csproj|d:\\_artigos\\_net9\\_cshp13\\novoobjeto_lock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE7A69F-386F-4440-B55E-1A57C43EDEBE}|CSharp13_Novidades.csproj|d:\\_artigos\\_net9\\_cshp13\\csharp13_novidades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE7A69F-386F-4440-B55E-1A57C43EDEBE}|CSharp13_Novidades.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\CSharp13_Novidades\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\CSharp13_Novidades\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:30:45.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\NovoObjeto_lock\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NovoObjeto_lock\\Program.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\NovoObjeto_lock\\Program.cs",
+              "RelativeToolTip": "..\\NovoObjeto_lock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:24:50.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\NovoObjeto_lock\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "..\\NovoObjeto_lock\\ContaBancaria.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\NovoObjeto_lock\\ContaBancaria.cs",
+              "RelativeToolTip": "..\\NovoObjeto_lock\\ContaBancaria.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:24:14.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a7673ab8-96c2-4f8f-86b9-ef4527b5383a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

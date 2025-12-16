@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Artigos\\_net9\\_cshp13\\OperadorImplicito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C05C6E73-FA40-43BF-B49D-6B5F2D2E3A2C}|OperadorImplicito\\OperadorImplicito.csproj|d:\\_artigos\\_net9\\_cshp13\\operadorimplicito\\operadorimplicito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05C6E73-FA40-43BF-B49D-6B5F2D2E3A2C}|OperadorImplicito\\OperadorImplicito.csproj|solutionrelative:operadorimplicito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05C6E73-FA40-43BF-B49D-6B5F2D2E3A2C}|OperadorImplicito\\OperadorImplicito.csproj|d:\\_artigos\\_net9\\_cshp13\\operadorimplicito\\operadorimplicito\\operadorimplicito.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C05C6E73-FA40-43BF-B49D-6B5F2D2E3A2C}|OperadorImplicito\\OperadorImplicito.csproj|solutionrelative:operadorimplicito\\operadorimplicito.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperadorImplicito.csproj",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\OperadorImplicito\\OperadorImplicito\\OperadorImplicito.csproj",
+              "RelativeDocumentMoniker": "OperadorImplicito\\OperadorImplicito.csproj",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\OperadorImplicito\\OperadorImplicito\\OperadorImplicito.csproj",
+              "RelativeToolTip": "OperadorImplicito\\OperadorImplicito.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T15:25:46.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Artigos\\_net9\\_cshp13\\OperadorImplicito\\OperadorImplicito\\Program.cs",
+              "RelativeDocumentMoniker": "OperadorImplicito\\Program.cs",
+              "ToolTip": "D:\\_Artigos\\_net9\\_cshp13\\OperadorImplicito\\OperadorImplicito\\Program.cs",
+              "RelativeToolTip": "OperadorImplicito\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:25:44.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a7673ab8-96c2-4f8f-86b9-ef4527b5383a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
